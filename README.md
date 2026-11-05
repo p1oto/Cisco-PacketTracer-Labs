@@ -7,11 +7,6 @@
 ## 📖 About This Portfolio
 Welcome to my personal networking portfolio! This repository is a showcase of my practical skills as an aspiring Network Engineer. It contains a structured collection of **Cisco Packet Tracer** labs, complex network topologies, and routing configurations that I designed and built to apply theoretical concepts from the **CCNA 200-301** curriculum into real-world enterprise scenarios.
 
-## 🚀 Technologies & Protocols Covered
-- **Routing:** OSPFv2 (Single & Multi-Area), Inter-Area Routing.
-- **Services:** DHCP (Dynamic Host Configuration Protocol) Server Configuration on Cisco Routers.
-- **Infrastructure:** IPv4 Addressing, Subnetting, Area Border Router (ABR) implementations.
-
 ## 📂 Repository Structure & Labs
 
 Here is a list of the hands-on labs available in this repository:

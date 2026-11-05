@@ -21,7 +21,7 @@ The primary goal of this lab is to design and implement a highly scalable enterp
 ---
 
 <p align="center">
-  <a href="./OSPF-MultiArea-DHCP.pkt">
+  <a href="https://raw.githubusercontent.com/p1oto/Cisco-PacketTracer-Labs/main/01-OSPF-MultiArea-DHCP/OSPF-MultiArea-DHCP.pkt">
     <img src="https://img.shields.io/badge/📥_Download_Packet_Tracer_Lab_File-(.pkt)-blue?style=for-the-badge" alt="Download Lab">
   </a>
 </p>
